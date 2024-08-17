@@ -7,7 +7,7 @@ class Services extends Component {
 render() {
   return (
       
-<div> something written on Services </div>
+<div> something written on Policy </div>
 
   );
 }  

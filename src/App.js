@@ -2,12 +2,13 @@
 import React, {Component} from 'react';
 import './App.css';
 import cat from './logo.png';
-import Header from './Header';
-import Home from './Home';
-import Projects from './Projects';
-import Contact from './Contact';
+import Header from './Pages/Header';
+import Home from './Pages/Home';
+import Projects from './Pages/Projects';
+import Policy from './Pages/Policy';
+import Contact from './Pages/Contact';
 import About from './About';
-import Services from './Services';
+
 
 
 import {BrowserRouter as Router, Switch, Route } from 'react-router-dom';
@@ -40,9 +41,8 @@ render() {
 <Route path="/" exact component={Home} />
     <Route path="/home" component={Home} />
     <Route path="/Projects" component={Projects} />
-    <Route path="/About" component={About} />
-    <Route path="/Services" component={Services} />
     <Route path="/Contact" component={Contact} />
+    <Route path="/Policy" component={Policy} />
 </Switch>
 
 </div>
