@@ -6,9 +6,9 @@ import Header from './Pages/Header';
 import Footer from './Pages/Footer';
 import Home from './Pages/Home';
 import Projects from './Pages/Projects';
-import Policy from './Pages/Policy';
 import Contact from './Pages/Contact';
 import About from './About';
+import Policy from './Pages/privacy';
 
 import {BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
@@ -33,7 +33,7 @@ render() {
     <Route path="/home" component={Home} />
     <Route path="/Projects" component={Projects} />
     <Route path="/Contact" component={Contact} />
-    <Route path="/Policy" component={Policy} />
+    <Route path="/privacy" component={Policy} />
 </Switch>
 
 

@@ -22,7 +22,7 @@ render() {
         </Nav.Item>
         
         <Nav.Item>
-          <Nav.Link href="/Policy">Policy</Nav.Link>
+          <Nav.Link href="/Privacy">Privacy</Nav.Link>
         </Nav.Item>
         
         <Nav.Item>

@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 
 
 
-class Policy extends Component {
+class Privacy extends Component {
 render() {
   return (
 
@@ -118,5 +118,5 @@ Based on the applicable laws of your country you may have the right to request a
 }  
 }
 
-export default Policy;
+export default Privacy;
 
