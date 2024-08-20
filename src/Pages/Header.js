@@ -22,12 +22,14 @@ render() {
         </Nav.Item>
         
         <Nav.Item>
-          <Nav.Link href="/Contact">Contact</Nav.Link>
+          <Nav.Link href="/Policy">Policy</Nav.Link>
         </Nav.Item>
         
         <Nav.Item>
-          <Nav.Link href="/Policy">Policy</Nav.Link>
+          <Nav.Link href="/Contact">Contact</Nav.Link>
         </Nav.Item>
+        
+        
 
   </Nav>
 
