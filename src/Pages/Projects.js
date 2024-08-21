@@ -32,8 +32,8 @@ render() {
           <td>1</td>
           <td><a href="https://github.com/powermator/Megax_Thermal_Printer">Megax_Thermal_Printer</a></td>
           <td> <img src="https://megax.s3.amazonaws.com/soon.png"/> </td>
-          <td><img src="https://megax.s3.amazonaws.com/flutter.png" alt="Flutter"/>Flutter</td>
-          <td>Playstore</td>
+          <td><img src="https://megax.s3.amazonaws.com/flutter.png" alt="Flutter"/>Flutter <img src="https://megax.s3.amazonaws.com/HTML.png" alt="Flutter"/> <img src="https://megax.s3.amazonaws.com/CSS.png" alt="Flutter"/> </td>
+          <td> <a href="https://play.google.com/apps/internaltest/4700674980179119152">Playstore</a>  </td>
         </tr>
         <tr>
           <td>2</td>
@@ -96,14 +96,14 @@ render() {
           <td>3</td>
           <td><a href="https://github.com/powermator/Game-Demo-VB6">3D Game Demo</a></td>
           <td><a href="https://raw.githubusercontent.com/powermator/Game-Demo-VB6/main/PIC2006828133410272.JPG">screenshot</a></td>
-          <td><img src="https://megax.s3.amazonaws.com/vb6.png"/> <img src="https://megax.s3.amazonaws.com/dx.png"/></td>
+          <td><img src="https://megax.s3.amazonaws.com/vb6.jpg"/> <img src="https://megax.s3.amazonaws.com/dx.png"/></td>
           <td>Plantesourcecode on 2006-08-24 16:45:06</td>
         </tr>
         <tr>
           <td>4</td>
           <td><a href="https://github.com/powermator/Game-GUI-VB6-DX8">Game GUI</a></td>
           <td><a href="https://raw.githubusercontent.com/powermator/Game-GUI-VB6-DX8/main/PIC2006829651465297.JPG">screenshot</a></td>
-          <td><img src="https://megax.s3.amazonaws.com/vb6.png"/> <img src="https://megax.s3.amazonaws.com/dx.png"/></td>
+          <td><img src="https://megax.s3.amazonaws.com/vb6.jpg"/> <img src="https://megax.s3.amazonaws.com/dx.png"/></td>
           <td>Plantesourcecode on 2006-08-25 13:37:54</td>
         </tr>
        
